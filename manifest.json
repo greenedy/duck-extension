@@ -1,0 +1,15 @@
+{
+    "name": "Random duck picture viewer",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "description": "A chromium extension to display random duck pictures",
+    "icons": {
+        "16": "icons/minimalist_duck_icon_16.png",
+        "32": "icons/minimalist_duck_icon_32.png",
+        "48": "icons/minimalist_duck_icon_48.png",
+        "128": "icons/minimalist_duck_icon_128.png"
+    },
+    "action": {
+        "default_popup": "popup/popup.html"
+    }
+}
